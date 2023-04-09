@@ -1,0 +1,267 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Island+Moments&family=Open+Sans:wght@500&family=Oswald&family=PT+Sans+Narrow:wght@700&display=swap');
+.head{
+  font-family: 'Inconsolata', monospace;
+font-family: 'Island Moments', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+}
+ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  height: 3vw;
+  background-color:darkgrey;
+}
+li{
+  color:rgb(43, 42, 42) ;
+  float: left;
+padding-left:50px;
+padding-top: 5px;
+font-size: 25px;
+font-family: 'Inconsolata', monospace;
+font-family: 'Island Moments', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+cursor: pointer;
+}
+a:hover{
+  background-color:white;
+  border-radius: 8px;
+}
+.search1 input{
+padding-left: 50px;
+height: 30px;
+border-radius: 12px;
+
+}
+.search2 button{
+  height: 30px;
+  border-radius: 14px;
+}
+.image{
+    text-align: center;
+}
+.image2{
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
+</svg>
+}
+.path-circle1{
+  clip-path: circle(50% at 50% 50%);
+}
+.path-circle2{
+  clip-path: circle(50% at 50% 50%);
+}
+.path-circle3{
+  clip-path: circle(50% at 50% 50%);
+}
+.san{
+  background-color: yellow;
+}
+.san1{
+  background-color: yellow;
+}
+.san2{
+  background-color: yellow;
+}
+.san3{
+  background-color: yellow;
+}
+.path-circle4{
+  clip-path: circle(50% at 50% 50%);
+}
+.san4{
+  background-color: yellow;
+}
+.path-circle5{
+  clip-path: circle(50% at 50% 50%);
+}
+.san5{
+  background-color: yellow;
+}
+.path-circle6{
+  clip-path: circle(50% at 50% 50%);
+}
+.san6{
+  background-color: yellow;
+}
+.menu{
+  color: blue;
+}
+.menu1{
+  color: blue;
+}
+.menu2{
+  color: blue;
+}
+.path1-circle{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle1{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle2{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle3{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle4{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle5{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle6{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle7{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle8{
+  clip-path: circle(50% at 50% 50%);
+}
+.path1-circle9{
+  clip-path: circle(50% at 50% 50%);
+}
+.path-circlee1{
+  clip-path: circle(50% at 50% 50%);
+}
+.path-circlee2{
+  clip-path: circle(50% at 50% 50%);
+}
+.path-circlee3{
+  clip-path: circle(50% at 50% 50%);
+}
+.path-circlee4{
+  clip-path: circle(50% at 50% 50%);
+}
+.food{
+  text-align: center;
+}
+#box{
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#box1{
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#box3{
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#box4{
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#box5{
+  float: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#food1{
+  float:none;
+  width: 400px;
+  height: 400px;
+  border-radius: 5px;
+  margin: 10px;
+
+}
+.tasty{
+  text-align: center;
+  color: aliceblue;
+  background-color: darkslategrey;
+  height: 300px;
+  width: 500px;
+  margin-left: 460px;
+  margin-bottom: 5px;
+}
+.place button{
+  height: 4vw;
+  width: 22vh;
+  border-radius: 10px;
+  background-color:slategray;
+  font-family: 'Inconsolata', monospace;
+font-family: 'Island Moments', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-size: 23px;
+}
+.place button:hover{
+ cursor: pointer;
+ background-color:darkslategray;
+}
+.payment{
+  display: block;
+}
+.Check{
+  color: white;
+  background-color: green;
+  text-align: center;
+  width: 70px;
+
+}
+.set{
+  background-color:cadetblue;
+  position:relative;
+  top: 20px;
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: 150px;
+}
+.number{
+  text-align: right;
+  color: blue;
+}
+.contact{
+color:green;
+margin-bottom: 10px;
+  animation: bouncing 0.2s ease 0s infinite alternate both;
+  position: relative;
+  display: inline-block;
+  float:right;
+}
+@keyframes bouncing{
+  0%{
+     bottom:0;
+     box-shadow: 0 0 5px rgb(0, 0,0,0.5);
+ }
+ 100%{
+     bottom: 10px;
+     box-shadow: o 50px 50px rgba(0,0,0, 0.1);
+ }
+}
+
+
+
